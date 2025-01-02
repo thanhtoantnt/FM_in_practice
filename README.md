@@ -5,6 +5,7 @@ A list of papers about using formal methods in industry.
 ## Survey + Talks
 - Formal Methods in Industry: [paper](https://assets.amazon.science/f5/7b/9a668143460c98e8f68eae554cd8/formal-methods-in-industry.pdf)
 - Mike Dodds: N things I learned trying to do formal methods in industry: [slides](https://mikedodds.github.io/files/talks/2024-10-09-n-things-I-learned.pdf)
+- Proofs in the Wild: What’s done today? What’s close? What’s far? [slides](https://mikedodds.github.io/talks/2024-12-5-proofs-in-the-wild)
 - Formal Reasoning and the Hacker Way: [SOAP_video](https://pldi20.sigplan.org/details/SOAP-2020-papers/4/Keynote-Formal-Reasoning-and-the-Hacker-Way), [ICSE_video](https://www.youtube.com/watch?v=bb8BnqhY3Ss&t=2115s)
 
 ## VeriFast
@@ -45,3 +46,5 @@ A list of papers about using formal methods in industry.
 - Prusti: [github](https://github.com/viperproject/prusti-dev)
 - VeriFast: [github](https://github.com/verifast/verifast)
 - Creusot: [github](https://github.com/creusot-rs/creusot)
+- Bounded Model Checking at Ant Group: UnsafeCop: Towards Memory Safety for Real-World Unsafe Rust Code with Practical Bounded Model Checking: [paper](https://link.springer.com/chapter/10.1007/978-3-031-71177-0_19)
+- Verify Rust standard library: [github](https://github.com/model-checking/verify-rust-std)
